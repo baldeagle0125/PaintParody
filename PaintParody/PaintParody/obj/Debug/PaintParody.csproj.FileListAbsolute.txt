@@ -1,0 +1,26 @@
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\bin\Debug\PaintParody.exe.config
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\bin\Debug\PaintParody.exe
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\bin\Debug\PaintParody.pdb
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.csprojAssemblyReference.cache
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.Form1.resources
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.Properties.Resources.resources
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.csproj.GenerateResource.cache
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.csproj.CoreCompileInputs.cache
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.exe
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.pdb
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\bin\Debug\en-US\PaintParody.resources.dll
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.Form1.en-US.resources
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\en-US\PaintParody.resources.dll
+C:\Our files (IMPORTANT)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\bin\Debug\PaintParody.exe.config
+C:\Our files (IMPORTANT)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\bin\Debug\PaintParody.exe
+C:\Our files (IMPORTANT)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\bin\Debug\PaintParody.pdb
+C:\Our files (IMPORTANT)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\bin\Debug\en-US\PaintParody.resources.dll
+C:\Our files (IMPORTANT)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.csproj.AssemblyReference.cache
+C:\Our files (IMPORTANT)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.Form1.resources
+C:\Our files (IMPORTANT)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.Properties.Resources.resources
+C:\Our files (IMPORTANT)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.Form1.en-US.resources
+C:\Our files (IMPORTANT)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.csproj.GenerateResource.cache
+C:\Our files (IMPORTANT)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.csproj.CoreCompileInputs.cache
+C:\Our files (IMPORTANT)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\en-US\PaintParody.resources.dll
+C:\Our files (IMPORTANT)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.exe
+C:\Our files (IMPORTANT)\IT STEP (Software development) files\C# WinForms\Exam\PaintParody\PaintParody\obj\Debug\PaintParody.pdb
